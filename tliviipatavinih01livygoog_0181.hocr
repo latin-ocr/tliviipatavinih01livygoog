@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih01livygoog_0181.png"; bbox 0 0 523 1013; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 131 166 411 214">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 131 151 411 214">
+     <span class='ocr_line' id='line_1_1' title="bbox 137 166 408 185; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 137 168 144 185; x_wconf 84' lang='lat'>1</span> <span class='ocrx_word' id='word_1_2' title='bbox 153 168 167 185; x_wconf 77' lang='lat' dir='ltr'>B</span> <span class='ocrx_word' id='word_1_3' title='bbox 176 167 190 185; x_wconf 77' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_4' title='bbox 200 167 216 185; x_wconf 75' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_5' title='bbox 237 166 337 184; x_wconf 79' lang='lat' dir='ltr'><strong>xxxvlu.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 379 172 408 185; x_wconf 73' lang='lat' dir='ltr'>an</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 131 193 411 214; baseline 0 -4"><span class='ocrx_word' id='word_1_7' title='bbox 131 195 198 214; x_wconf 61' lang='lat' dir='ltr'><strong>amp-m</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 205 193 372 214; x_wconf 46' lang='lat' dir='ltr'>&amp;spemn-ammian.</span> <span class='ocrx_word' id='word_1_9' title='bbox 380 195 411 210; x_wconf 71' lang='lat' dir='ltr'>aa·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

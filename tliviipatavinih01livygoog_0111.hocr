@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih01livygoog_0111.png"; bbox 0 0 523 1013; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 147 199 444 221">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 147 199 444 221">
+     <span class='ocr_line' id='line_1_1' title="bbox 147 199 444 221; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 147 199 163 217; x_wconf 69' lang='lat' dir='ltr'>L</span> <span class='ocrx_word' id='word_1_2' title='bbox 172 200 180 217; x_wconf 82' lang='lat'>1</span> <span class='ocrx_word' id='word_1_3' title='bbox 190 199 204 217; x_wconf 81' lang='lat' dir='ltr'>B</span> <span class='ocrx_word' id='word_1_4' title='bbox 213 199 228 217; x_wconf 87' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_5' title='bbox 238 199 253 216; x_wconf 82' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_6' title='bbox 275 199 365 217; x_wconf 84' lang='lat' dir='ltr'>xxxvn.</span> <span class='ocrx_word' id='word_1_7' title='bbox 413 204 444 221; x_wconf 81' lang='lat'>¹²⁷</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
